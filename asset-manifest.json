@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HW-Inkubator/static/css/main.073c9b0a.css",
+    "main.js": "/HW-Inkubator/static/js/main.14a1de19.js",
+    "static/js/787.177e23c2.chunk.js": "/HW-Inkubator/static/js/787.177e23c2.chunk.js",
+    "index.html": "/HW-Inkubator/index.html",
+    "main.073c9b0a.css.map": "/HW-Inkubator/static/css/main.073c9b0a.css.map",
+    "main.14a1de19.js.map": "/HW-Inkubator/static/js/main.14a1de19.js.map",
+    "787.177e23c2.chunk.js.map": "/HW-Inkubator/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.14a1de19.js"
+  ]
+}
